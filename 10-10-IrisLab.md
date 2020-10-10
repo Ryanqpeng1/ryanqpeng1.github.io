@@ -1,5 +1,5 @@
 
-#### Iris Lab
+####Iris Lab
 
 Our goal for this lab was to process information from a data set of three different species Iris flowers and determine which species had the greates petal length and sepal with. To do this, I first used a dictionary reader to organize the data into a list of dictionaries, which each row of the list being a dictionary containing the measurements and species for an individual flower. After this, I made three functions:
 
