@@ -5,6 +5,7 @@ Link to study: https://www.cdc.gov/mmwr/volumes/69/wr/mm6945e1.htm?s_cid=mm6945e
 Find a study of your own that interests you, and imagine a world where that research has advanced and come to some definite conclusions. Then, write a blog post that answers the following questions (same as classwork worksheet)
 
 1. Identify a statistical question that you could ask.
+
 How do the mitigation measures of COVID-19 affect the Transmission, Hospitalizations, and Mortality rates across different states with different population densities?
 
 
@@ -19,7 +20,6 @@ A feasible sample frame would be a group of individuals across each state of abo
 4. Identify the sampling method you would use, and explain your reasoning. What makes this method better than the others?
 
 I would use stratified sampling; this sampling method works well because of the already defined stratifying property that provides important insight to the study. People can be grouped by state, where each state is heterogeneous but the people within each state are homogenous. This gives information on the effectiveness of the COVID-19 mitigation measures across different states with different populations of densities. Within each strata, it is also possible to analyze the precautions taken by each individual in each state to determine the effectiveness of the mitigation measures outside of Delaware. 
-
 
 
 5. Suppose you had the means to run an experiment on this sample. Identify the null and alternative hypotheses.
