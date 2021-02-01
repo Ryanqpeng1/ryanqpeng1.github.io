@@ -1,4 +1,4 @@
-####Visualization Lab
+#### Visualization Lab
 
 
 For this lab, I chose to use the COVID-19 vaccination data set. The specific subset of data and relationships I investigated was the daily COVID vaccinations per million for 5 different countries, USA, China, Israel, Canada, and England, over time. The dates in the csv of the data were already sorted from earliest to latest data within each country, so by filtering the data set by country, graphing the dates vs. daily vaccinations in each country allowed me to visualize the daily vaccinations per country over time. By plotting the five lines (one per country) on the same graph, I can both directly compare the daily vaccinations per million for each country with each other and analyze how the dependent variable changed over the course of the month-long period.
